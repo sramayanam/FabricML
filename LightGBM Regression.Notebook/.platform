@@ -2,11 +2,11 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Notebook",
-    "displayName": "LightGBMClassification",
+    "displayName": "LightGBM Regression",
     "description": "New notebook"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "8885778d-fe2a-4275-917e-b7924251358d"
+    "logicalId": "6e60e81f-e306-4b46-a998-3f676de6bb91"
   }
 }
